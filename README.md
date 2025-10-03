@@ -288,8 +288,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: voiceforge.ai@gmail.com
-- **GitHub**: [VoiceForge-AI](https://github.com/your-username/VoiceForge-AI)
+- **Email**: viczo2878@gmail.com
+- **GitHub**: [VoiceForge-AI](https://github.com/yashraj-ghemud/VoiceForge-AI)
 - **Demo**: Available for live demonstration
 - **Presentation**: Ready for technical deep-dive
 
