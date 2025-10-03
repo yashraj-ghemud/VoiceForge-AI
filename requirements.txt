@@ -1,0 +1,51 @@
+# VoiceForge AI - Requirements File
+# Infinity Code Hackathon - Stark Industries Challenge
+
+# Core GUI Framework
+PyQt6>=6.4.0
+
+# Audio Processing
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.11
+numpy>=1.24.3
+scipy>=1.10.1
+
+# AI and Machine Learning
+openai>=0.27.8
+whisper>=1.1.10
+spacy>=3.5.3
+transformers>=4.30.0
+
+# Computer Vision and Automation  
+opencv-python>=4.7.1.72
+pytesseract>=0.3.10
+pyautogui>=0.9.54
+Pillow>=9.5.0
+
+# System Integration
+psutil>=5.9.5
+pywin32>=306  # Windows-specific
+
+# Data Processing
+pandas>=2.0.2
+requests>=2.31.0
+redis>=4.5.5
+
+# Async Processing
+asyncio-mqtt>=0.13.0
+aiofiles>=23.1.0
+
+# Configuration and Logging
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Development and Testing
+pytest>=7.3.1
+pytest-asyncio>=0.21.0
+black>=23.3.0
+flake8>=6.0.0
+
+# Optional: Advanced ML Libraries
+# torch>=2.0.1  # For custom model training
+# scikit-learn>=1.2.2  # For ML utilities
+# librosa>=0.10.0  # For audio analysis
