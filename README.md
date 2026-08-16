@@ -1,4 +1,32 @@
-# VoiceForge-AI
+<p align="center">
+  <img src="./.github/readme-assets/blueprint.gif" alt="Animated blueprint / system visual for VoiceForge-AI" width="100%" />
+</p>
+
+<h1 align="center">VoiceForge-AI</h1>
+
+<p align="center"><strong>VoiceForge-AI is a Python-based bilingual (Hindi/English) desktop voice assistant designed to provide full PC automation: speech→NLP→automation with a PyQt6 UI. The dossier contains a README, a main entrypoint (main.py), core modules for speech, NLP, automation, and the voice engine. Several referenced utilities/UI modules and tests are not present in the supplied files.</strong></p>
+
+<p align="center"><code>REPO//SIGNAL</code> · <code>BLUEPRINT / SYSTEM</code> · <code>LOOPING README EXPERIENCE</code></p>
+
+## Live signal
+
+| Lens | Readout |
+| --- | --- |
+| Portfolio lane | **BLUEPRINT / SYSTEM** |
+| Code surface | **9** tracked files observed |
+| Primary materials | **Python, Markdown** |
+| Verification | **0** test-related files observed |
+
+> A structural view of the project machinery. The animated frame above is a lightweight visual signature; the sections below remain the source of truth for implementation details.
+
+## Motion map
+
+`INGEST` → `COMPOSE` → `SHIP`
+
+Trace the repository from inputs and dependencies through its core modules to the delivered surface. Keep configuration explicit, make failure states observable, and add verification around the highest-value paths.
+
+<details open>
+<summary><strong>Open the full project dossier</strong></summary>
 
 > VoiceForge-AI is a Python-based bilingual (Hindi/English) desktop voice assistant designed to provide full PC automation: speech→NLP→automation with a PyQt6 UI. The dossier contains a README, a main entrypoint (main.py), core modules for speech, NLP, automation, and the voice engine. Several referenced utilities/UI modules and tests are not present in the supplied files.
 
@@ -78,3 +106,9 @@ Component-based: Audio Input → Speech Engine (speech_recognition.py) → NLP E
 ## Contributing
 
 Before submitting changes, keep the implementation aligned with the existing project structure, add or update relevant tests where the project supports them, and describe any configuration changes in the pull request.
+
+</details>
+
+---
+
+<p align="center"><sub>README motion system · visual layer by RepoSignal · implementation details remain project-specific</sub></p>
